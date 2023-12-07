@@ -35,7 +35,6 @@ namespace RazorPagesTestSample
                 }
             }
             // create a loop from 1 to 10 and print the number
-            // create a loop from 1 to 10 and print the numbers
             for (int i = 1; i <= 10; i++)
             {
                 Console.WriteLine(i);
